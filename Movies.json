@@ -1,0 +1,57 @@
+[
+    {
+      "movieName" : "Hybrid Theory",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_park_hybrid_theory.jpg",
+      "id" : "1"
+    },
+    {
+      "movieName" : "Meteora",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/6/64/MeteoraLP.jpg",
+      "id" : "2"
+    },
+    {
+      "movieName" : "Minutes to Midnight",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/7/7a/Minutes_to_Midnight_cover.jpg",
+      "id" : "3"
+    },
+    {
+      "movieName" : "A Thousand Suns",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/a/af/A_Thousand_Suns_Cover2.jpg",
+      "id" : "4"
+    },
+    {
+      "movieName" : "Living Things",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_Park_-_Living_Things.jpg",
+      "id" : "5"
+    },
+    {
+      "movieName" : "Recharged",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/e/e6/Linkin_Park_-_Recharged_%28Album%29.jpg",
+      "id" : "6"
+    },
+    {
+      "movieName" : "The Hunting Party",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/f/fa/Linkin_Park%2C_The_Hunting_Party%2C_album_art_final.jpg",
+      "id" : "7"
+    },
+    {
+      "movieName" : "One More Light",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/b/b2/Linkin_Park%2C_One_More_Light%2C_album_art_final.jpeg",
+      "id" : "8"
+    }
+    ,
+    {
+      "movieName" : "Reanimation",
+      "releaseDate" : "linkin park",
+      "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/7/7b/Linkin_park_reanimation.jpg",
+      "id" : "9"
+    }
+  ]
